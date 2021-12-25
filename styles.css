@@ -95,35 +95,33 @@ body {
 }
 
 .post:nth-child(1) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post1.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post1.jpeg');
 }
 .post:nth-child(2) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post2.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post2.jpeg');
 }
 .post:nth-child(3) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post3.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post3.jpeg');
 }
 .post:nth-child(4) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post4.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post4.jpeg');
 }
 .post:nth-child(5) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post5.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post5.jpeg');
 }
 .post:nth-child(6) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post6.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post6.jpeg');
 }
 .post:nth-child(7) {
-    background-image: url('https://source.unsplash.com/random/');
-    /* background-image: url('./assets/images/post7.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/'); */
+    background-image: url('./assets/images/post7.jpeg');
 }
-
-
 
 
 .post:after {
@@ -157,9 +155,10 @@ body {
     padding-top: calc(100% / (16/10));
     }
     
-    .box:nth-child(1) {
-    background-image: url('https://source.unsplash.com/random/750x750');
-    /* background-image: url('./assets/images/post7.jpeg'); */
+    /* background-image: url('https://source.unsplash.com/random/750x750'); */
+
+    /* .box:nth-child(1) {
+    background-image: url('./assets/images/post7.jpeg');
 
     }
     .box:nth-child(2) {
@@ -182,4 +181,4 @@ body {
     }
     .box:nth-child(8) {
     background-image: url('https://images.unsplash.com/photo-1579447950667-33f66f0e6709?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=400&ixlib=rb-1.2.1&q=80&w=640');
-    }
+    } */
